@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Matheus Philip! 💪</h1>
+<h1 align="center">👉 Olá, me chamo Matheus Philip! 💪</h1>
 <p align="center"><em>🎓 Estudante de Ciência da Computação (6º semestre)</em></p>
 
 ---
