@@ -8,7 +8,7 @@
 Sou um desenvolvedor em formação, entusiasta de tecnologias e estudante autônomo, sempre aprimorando minhas habilidades com pesquisas e novos projetos.
 
 - 😊 Tenho 20 anos.
-- 📖 Atualmente focando estudos na área de **Engenharia de Dados** e **Machine Learning**.
+- 📖 Atualmente focando estudos nas áreas de **Engenharia de Dados** e **Machine Learning**.
 - 🧠 Sempre disposto a aprender novas tecnologias.
 
 ## 🛠️ Tecnologias
